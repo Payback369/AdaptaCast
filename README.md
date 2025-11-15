@@ -20,7 +20,7 @@
 </p>
 
 
-# 🎙️ AdaptaCast — Podcast Criado com Ferramentas de IA
+# 🎙️ AdaptaCast - Podcast Criado com IA's
 
 > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do desafio de criação de podcast com I.A. da [DIO](https://dio.me), com o objetivo de unir criatividade, tecnologia e inteligência artificial em um conteúdo leve e inspirador sobre o universo Front-end.
 

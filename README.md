@@ -12,7 +12,7 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/">
+<a href="https://drive.google.com/drive/folders/1Utc2nnm8NVWVj1yypjFZ7_90lp5Poiv3?usp=sharing">
 <img 
     src="https://img.shields.io/badge/🎙️_AdaptaCast-6C63FF" 
     alt="🎙️ AdaptaCast">

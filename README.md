@@ -29,6 +29,13 @@ O **Adapta Cast** foi criado com o intuito de apresentar o projeto de extensão 
 
 Com duração média de **4 minutos**, cada episódio busca **Documentar** a jornada dos membros na aplicação do Projeto.
 
+Link do Podcast: 
+</a>
+<a href="https://drive.google.com/drive/folders/1Utc2nnm8NVWVj1yypjFZ7_90lp5Poiv3?usp=sharing">
+<img 
+    src="https://img.shields.io/badge/🎙️_AdaptaCast-6C63FF" 
+    alt="🎙️ AdaptaCast">
+</a>
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
